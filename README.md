@@ -1,2 +1,1 @@
-# tindog
-Get Your Dog a Partner
+TinDog Starting Files
